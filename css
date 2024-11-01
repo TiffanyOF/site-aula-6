@@ -1,0 +1,40 @@
+body {
+    color:whitesmoke;
+    background:rgb(43, 5, 43);
+    margin: 0px;
+    font-family: "Rubik Wet Paint", system-ui;
+  }
+  
+  header { 
+    border-bottom: solid 4px orange;
+    padding: 28px;
+    font-size: 40px;
+    color: orangered;
+  }
+  
+  section {
+    background: orangered;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    font-family: "Nosifer", sans-serif;
+  }
+  
+  .chamada-texto {
+    margin-right: 4%;
+  }
+  
+  h1 {
+    font-size: 28px;
+  }
+  
+  p {
+    font-size: 10px;
+  }
+
+  img {
+   height: 200px
+  }
+
+  
